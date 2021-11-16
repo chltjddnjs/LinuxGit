@@ -1,7 +1,7 @@
 public class Hello{
 	public static void main(String[] args){
 		System.out.println('Hello java");
-		System.out.println("Local modify Hello java");
+		System.out.println("local modify Hello java");
 	}
 }
 
